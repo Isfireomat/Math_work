@@ -1,0 +1,1 @@
+powershell -windowstyle hidden -command "& {Start-Process cmd -ArgumentList '/c start.bat' -WindowStyle Hidden}"
